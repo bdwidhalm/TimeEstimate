@@ -1,0 +1,10 @@
+----------------------------------------------------------------
+Wed Jun 19 04:51:29 MST 2013:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.8.2.2 - (1181258): instance a816c00e-013f-5c46-77d0-00000e833a60 
+on database directory /home/bdwidhalm/workspace/TimeEstimate/TimeEstimate  with class loader sun.misc.Launcher$AppClassLoader@53372a1a 
+Loaded from file:/opt/eclipse/plugins/org.apache.derby.core_10.8.2/derby.jar
+java.vendor=Sun Microsystems Inc.
+java.runtime.version=1.6.0_33-b04
+user.dir=/home/bdwidhalm/workspace/TimeEstimate
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
