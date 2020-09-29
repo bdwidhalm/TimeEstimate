@@ -14,7 +14,7 @@ public class TimeCloudRegistry
   private static final String URL = "jdbc:mysql://50.63.244.187:3306/TimeEstimate";
   private final static String TABLE_NAME = "TimeTable";
   private final static String USER = "TimeEstimate";
-  private final static String PASSWORD = "Nebr@sk@68701";
+  private final static String PASSWORD = "<password>";
 
   private static boolean initialized = false;
 
